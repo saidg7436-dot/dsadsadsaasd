@@ -1,0 +1,6 @@
+{
+  "name": "WikiBloques - Enciclopedia y Directorio de Bloques",
+  "description": "Explorador completo de bloques con enlaces directos a la Wiki oficial (Español e Inglés), buscador instantáneo, categorías, fichas técnicas e importador de listas personalizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
